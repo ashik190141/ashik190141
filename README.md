@@ -1,6 +1,6 @@
 ### Hi, I am Ahsan Mahmud Ashik
 #### CSE Undergraduate || Full Stack Developer || Competitive Programming
-![CSE Undergraduate || Full Stack Developer || Competitive Programming](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![CSE Undergraduate || Full Stack Developer || Competitive Programming](https://i.ibb.co/GQwwKWp/banner-Img.jpg)
 
 I am a highly motivated, hard worker and progress-focused web developer. I am try to learn and explore new technologies all time. Skilled in creating responsive user interfaces and building RESTful APIs.
 
