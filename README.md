@@ -53,11 +53,3 @@ I am a highly motivated, hard worker and progress-focused web developer. I am tr
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 
-## ⚡ GitHub Stats
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ashik190141)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashik190141)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashik190141&show_icons=true&count_private=true)  
-
