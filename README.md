@@ -4,9 +4,8 @@
 
 I am a highly motivated, hard worker and progress-focused web developer. I am try to learn and explore new technologies all time. Skilled in creating responsive user interfaces and building RESTful APIs.
 
-- 🔭 I’m currently working on Next.js and Redux 
+- 🔭 I’m currently working on c# (dotnet), golang and node js 
 - 🌱 I’m currently learning advance web technologies 
-- 👯 I’m looking to collaborate on open source projects 
 - 🤔 I’m looking for help with web development and programming 
 - 📫 How to reach me: ahsanmahmudashik@gmail.com 
 
